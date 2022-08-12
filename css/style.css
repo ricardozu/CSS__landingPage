@@ -423,10 +423,6 @@ body {
     background-color: #1F293F;
 }
 
-.footer__form{
-    display: flex;
-    flex-direction: column;
-}
 
 .footer__title{
     font-weight: 300;
@@ -436,10 +432,6 @@ body {
 
 .footer__title, .footer__newsletter{
     color: #fff;
-}
-
-.footer__newsletter{
-    justify-self:flex-end;
 }
 
 .footer__container{
