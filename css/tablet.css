@@ -1,0 +1,80 @@
+/*nav*/
+.nav__title{
+    font-size: 2rem;
+}
+
+.nav__link {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-rows: max-content;
+    
+}
+
+.nav a{
+    font-size: 1.3rem;
+}
+
+.nav__menu{
+    display: var(--show);
+}
+
+.hero__title {
+    /*font-size:3rem*/
+    font-size: 3rem;
+}
+
+.hero__paragraph {
+    width: 70%;
+    margin: 0 auto;
+}
+
+/*About*/
+
+.about__paragraph {
+    width: 70%;
+    margin: 0 auto;
+    font-size: 1.3rem;
+}
+
+
+
+/*knowledge*/
+
+.knowledge__paragraph{
+    font-size: 1.3rem;
+}
+
+/*price*/
+
+.price__element{
+    font-size: 1.3rem;
+}
+
+/*Testimony*/
+
+.testimony__review{
+    width: 60%;
+    margin: 0 auto;
+    font-size: 1.2rem;
+}
+
+/*questions*/
+
+.questions__paragraph{
+    font-size: 1.3rem;
+}
+
+.questions__copy{
+    font-size: 1.3rem;
+}
+
+.questions__padding{
+    max-width: 950px;
+    margin: 0 auto;
+}
+
+/*footer*/
+
+.footer__input{
+    width: 170px;
+}
